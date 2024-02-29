@@ -72,6 +72,8 @@ public class No1 {
 
 	public long prom3() {
 		
+		
+		
 		return 0;
 	}
 
