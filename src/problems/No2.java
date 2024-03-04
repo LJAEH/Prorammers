@@ -1,8 +1,5 @@
 package problems;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class No2 {
 	public static void main(String[] args) {
 		No2 no2 = new No2();
